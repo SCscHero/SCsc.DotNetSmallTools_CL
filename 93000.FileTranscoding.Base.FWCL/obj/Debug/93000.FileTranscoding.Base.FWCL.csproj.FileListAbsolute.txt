@@ -1,0 +1,8 @@
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\bin\Debug\93000.FileTranscoding.Base.FWCL.dll
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\bin\Debug\93000.FileTranscoding.Base.FWCL.pdb
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\bin\Debug\Newtonsoft.Json.dll
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\obj\Debug\93000.FileTranscoding.Base.FWCL.csprojAssemblyReference.cache
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\obj\Debug\93000.FileTranscoding.Base.FWCL.csproj.CopyComplete
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\obj\Debug\93000.FileTranscoding.Base.FWCL.dll
+D:\00070.代码仓\93000.FileTranscoding.FW.WinForm\93000.FileTranscoding.Base.FWCL\obj\Debug\93000.FileTranscoding.Base.FWCL.pdb
