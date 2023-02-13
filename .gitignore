@@ -1,0 +1,19 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+#IDE&Dotnet
+/.vs/
+/packages/
+/UFQI_BlogPortal/.vs/
+/UFQI_BlogPortal/obj/
+
+
+#DtApp
+/DtApp4FileTransEncode/bin/
+/DtApp4FileTransEncode/obj/
+
+
+#10.BusinessServiceLayer
+/lib4FileTransEncode/bin/
+/lib4FileTransEncode/obj/
